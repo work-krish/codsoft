@@ -2,7 +2,7 @@ export default function Footer() {
   return (
     <section
       id="contact"
-      className="bg-gradient-to-b from-[#0f172a] to-[#020617] text-white py-20 pb-3 px-6 sm:px-10 h-screen">
+      className="bg-gradient-to-b from-[#0f172a] to-[#020617] text-white py-20 pb-3 px-6 sm:px-10 min-h-screen">
 
       <div className="max-w-6xl  mx-auto grid grid-cols-1 md:grid-cols-2 gap-14 items-center">
 
@@ -13,7 +13,7 @@ export default function Footer() {
               Let's Talk!
             </span>
           </h2>
-          <div className="h-56 sm:h-64 mx-auto md:mx-0"></div>
+          <div className="hidden sm:block h-56 sm:h-64 mx-auto md:mx-0"></div>
         </div>
 
         {/* Right Side - Form */}
