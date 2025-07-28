@@ -34,7 +34,11 @@ const router = createBrowserRouter([{
         path: "/skills",
         element: <SkillsSection/>
       }]
-  }])
+  }], {
+    basename: "/codsoft", // 👈 your GitHub repo name here
+  }
+
+)
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
