@@ -32,7 +32,7 @@ Clone the repository and run it locally:
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/portfolio.git
+https://github.com/work-krish/codsoft.git
 
 # Navigate into the project
 cd portfolio
