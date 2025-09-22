@@ -1,11 +1,5 @@
 # 🌐 Personal Portfolio Website
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/portfolio)  
-![GitHub stars](https://img.shields.io/github/stars/your-username/portfolio?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/your-username/portfolio?style=social)  
-![GitHub issues](https://img.shields.io/github/issues/your-username/portfolio)  
-![GitHub license](https://img.shields.io/github/license/your-username/portfolio)  
-
 A modern and responsive **personal portfolio website** to showcase my **skills, projects, certifications, and experience**.  
 Built with **React, Tailwind CSS, and Framer Motion** to ensure smooth animations and a premium user experience.  
 
