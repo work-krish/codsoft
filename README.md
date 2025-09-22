@@ -30,19 +30,6 @@ Built with **React, Tailwind CSS, and Framer Motion** to ensure smooth animation
 
 ---
 
-## 📂 Folder Structure
-portfolio/
-│── public/ # Static assets
-│── src/
-│ ├── components/ # Reusable UI components
-│ ├── pages/ # Sections (Home, Skills, Projects, Contact, etc.)
-│ ├── assets/ # Images, icons
-│ ├── App.jsx # Root component
-│ ├── index.jsx # React DOM entry point
-│── package.json
-│── README.md
-
-
 ---
 
 ## ⚙️ Installation & Setup
