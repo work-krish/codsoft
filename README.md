@@ -1,12 +1,46 @@
-# React + Vite
+🌐 Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive personal portfolio website to showcase my skills, projects, certifications, and experience.
+This portfolio is designed with a clean UI, smooth animations, and a focus on accessibility and performance.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📱 Responsive Design – Works seamlessly on desktop, tablet, and mobile
+🎨 Modern UI/UX – Styled with Tailwind CSS + animations for an engaging experience
+⚡ Fast & Optimized – Built with performance best practices
+🧭 Navigation – Easy access to sections like About, Skills, Projects, and Contact
+📂 Project Showcase – Interactive cards with hover effects
+📜 Certificates & Skills – Dedicated sections for credibility
+📬 Contact Form – Functional form to connect directly
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛠️ Tech Stack
+
+Frontend: React.js, Tailwind CSS, Framer Motion
+Routing: React Router DOM
+Icons & UI: Lucide React, shadcn/ui
+Deployment: [GitHub Pages] 
+
+portfolio/
+│── public/           # Static assets
+│── src/
+│   ├── components/   # Reusable UI components
+│   ├── pages/        # Page sections (Home, Skills, Projects, Contact)
+│   ├── assets/       # Images, icons
+│   ├── App.jsx       # Main app component
+│   ├── index.jsx     # Entry point
+│── package.json
+│── README.md
+
+
+# Clone the repo
+https://github.com/work-krish/codsoft.git
+# Navigate into the project
+cd portfolio
+# Install dependencies
+npm install
+# Start development server
+npm run dev
+
+🌟 Live Demo
+https://work-krish.github.io/codsoft/
